@@ -861,6 +861,7 @@ only screen and (                min-resolution: 2dppx) {
   background-image: url("../img/Group\ 66.png");
   background-position: 1000px -10px;
   background-repeat: no-repeat;
+  padding-bottom: 74px;
 }
 
 .comminication-form {
@@ -919,4 +920,8 @@ only screen and (                min-resolution: 2dppx) {
   line-height: 20px;
   color: #949494;
   margin-bottom: 29px;
+}
+
+.map-section {
+  margin-bottom: 247px;
 }
