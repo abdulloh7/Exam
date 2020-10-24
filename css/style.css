@@ -436,7 +436,7 @@ only screen and (                min-resolution: 2dppx) {
   content: "";
   width: 148px;
   height: 78px;
-  background-image: url("../img/“.png");
+  background-image: url("../img/next.png");
   background-position: center center;
   background-repeat: no-repeat;
   position: absolute;
